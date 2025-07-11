@@ -13,9 +13,9 @@
    <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
 </div>
 <div align="center">
-    <a href="https://www.instagram.com/ladorex.1/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/ladorexinc/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://open.spotify.com/user/316mfje5psbt7ohprny6lbq7lkze?si=fecJwQvuSeq6SJWmfiEODQ" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/kansızlar" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/sgk" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
@@ -23,7 +23,7 @@
 class luhux {
 constructor(options) {
 this.name = "Emir",
-this.age = 15,
+this.age = 17,
 this.discord = "Ladorex",
 this.discordId = "729620099840999485"
   };
